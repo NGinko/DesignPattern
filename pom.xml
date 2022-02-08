@@ -20,6 +20,7 @@
     <modules>
         <module>FactoryPattern</module>
         <module>AbstractFactory</module>
+        <module>Builder</module>
     </modules>
 
     <dependencies>
